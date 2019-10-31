@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.02a8b52d.chunk.css",
-    "main.js": "/static/js/main.a51f13bf.chunk.js",
-    "main.js.map": "/static/js/main.a51f13bf.chunk.js.map",
+    "main.css": "/static/css/main.8ec0c2fb.chunk.css",
+    "main.js": "/static/js/main.b40bc168.chunk.js",
+    "main.js.map": "/static/js/main.b40bc168.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf5bd9ac.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf5bd9ac.js.map",
     "static/css/2.c8ea30f4.chunk.css": "/static/css/2.c8ea30f4.chunk.css",
-    "static/js/2.5e1c3270.chunk.js": "/static/js/2.5e1c3270.chunk.js",
-    "static/js/2.5e1c3270.chunk.js.map": "/static/js/2.5e1c3270.chunk.js.map",
+    "static/js/2.50814fb0.chunk.js": "/static/js/2.50814fb0.chunk.js",
+    "static/js/2.50814fb0.chunk.js.map": "/static/js/2.50814fb0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff9f4a3f1c8e7b18d34c7eb5e42f6877.js": "/precache-manifest.ff9f4a3f1c8e7b18d34c7eb5e42f6877.js",
+    "precache-manifest.d4a0ad816fc595d9009d124dfc4c725f.js": "/precache-manifest.d4a0ad816fc595d9009d124dfc4c725f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c8ea30f4.chunk.css.map": "/static/css/2.c8ea30f4.chunk.css.map",
-    "static/css/main.02a8b52d.chunk.css.map": "/static/css/main.02a8b52d.chunk.css.map",
+    "static/css/main.8ec0c2fb.chunk.css.map": "/static/css/main.8ec0c2fb.chunk.css.map",
     "static/media/AVR.svg": "/static/media/AVR.b5986874.svg",
     "static/media/Arduino.svg": "/static/media/Arduino.c1718864.svg",
     "static/media/Bot in Fields.png": "/static/media/Bot in Fields.a3e96041.png",
@@ -34,16 +34,16 @@
     "static/media/Summary Table.png": "/static/media/Summary Table.a4918161.png",
     "static/media/UI-UX.jpeg": "/static/media/UI-UX.3a74fa11.jpeg",
     "static/media/Web Development.jpg": "/static/media/Web Development.185fdd38.jpg",
+    "static/media/avatar.png": "/static/media/avatar.c7b5f6a0.png",
     "static/media/Experience.css": "/static/media/exp-bg.e987c34b.jpg",
-    "static/media/profile.jpg": "/static/media/profile.977bad77.jpg",
     "static/media/Projects.css": "/static/media/project-bg.1f7044a8.jpg",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf5bd9ac.js",
     "static/css/2.c8ea30f4.chunk.css",
-    "static/js/2.5e1c3270.chunk.js",
-    "static/css/main.02a8b52d.chunk.css",
-    "static/js/main.a51f13bf.chunk.js"
+    "static/js/2.50814fb0.chunk.js",
+    "static/css/main.8ec0c2fb.chunk.css",
+    "static/js/main.b40bc168.chunk.js"
   ]
 }
