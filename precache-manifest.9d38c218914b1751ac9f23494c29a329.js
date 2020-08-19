@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8eb18c5dae47881ff4318ac250d34e8",
+    "revision": "8930852628348f46db4421f5203618af",
     "url": "/index.html"
   },
   {
-    "revision": "a3b2480c269a909b0138",
+    "revision": "4f2b3d78ae7c547f633d",
     "url": "/static/css/2.628ec57a.chunk.css"
   },
   {
-    "revision": "61077a463f7821a96736",
-    "url": "/static/css/main.2e02d49d.chunk.css"
+    "revision": "ffe60492cdcf886bbb96",
+    "url": "/static/css/main.5d7ea46d.chunk.css"
   },
   {
-    "revision": "a3b2480c269a909b0138",
-    "url": "/static/js/2.4d24abde.chunk.js"
+    "revision": "4f2b3d78ae7c547f633d",
+    "url": "/static/js/2.04844ddc.chunk.js"
   },
   {
-    "revision": "61077a463f7821a96736",
-    "url": "/static/js/main.72d308dd.chunk.js"
+    "revision": "ffe60492cdcf886bbb96",
+    "url": "/static/js/main.369ad73a.chunk.js"
   },
   {
     "revision": "de72b28ac4cb2a60ad14",
@@ -108,12 +108,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Web Development.185fdd38.jpg"
   },
   {
+    "revision": "ca03f05d7ba63e772d7664f7ccbf06fd",
+    "url": "/static/media/alexa.ca03f05d.jpg"
+  },
+  {
     "revision": "c7b5f6a007a193933d22f1b03bf2b43e",
     "url": "/static/media/avatar.c7b5f6a0.png"
   },
   {
+    "revision": "7ea1ea9b08905b5ba4ffecf88619b44c",
+    "url": "/static/media/clock.7ea1ea9b.jpg"
+  },
+  {
     "revision": "e987c34b611fd12879174718284203df",
     "url": "/static/media/exp-bg.e987c34b.jpg"
+  },
+  {
+    "revision": "ca0a8d228748b1b90bb7a52d5b2a78e4",
+    "url": "/static/media/panel.ca0a8d22.jpg"
   },
   {
     "revision": "1f7044a8213f4f5bcb0c539542295a6e",
@@ -134,5 +146,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "afdc407ea197291d9c82141784498064",
+    "url": "/static/media/webpage.afdc407e.png"
   }
 ]);
