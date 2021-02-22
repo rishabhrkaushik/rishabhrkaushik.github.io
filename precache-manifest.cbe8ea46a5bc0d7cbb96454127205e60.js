@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "319c94eb05bb937d80d4383f1edd36bc",
+    "revision": "22da6e557d6109dad16c106a9db5fefc",
     "url": "/index.html"
   },
   {
-    "revision": "583de8c773867af15740",
+    "revision": "0e28e4a74f417cf91f93",
     "url": "/static/css/2.c8ea30f4.chunk.css"
   },
   {
-    "revision": "80b1f7abb0447fd217b7",
-    "url": "/static/css/main.c74abc1d.chunk.css"
+    "revision": "ac2745197a615c71d91f",
+    "url": "/static/css/main.304e95d1.chunk.css"
   },
   {
-    "revision": "583de8c773867af15740",
-    "url": "/static/js/2.8d21ff0f.chunk.js"
+    "revision": "0e28e4a74f417cf91f93",
+    "url": "/static/js/2.2b79aec6.chunk.js"
   },
   {
-    "revision": "80b1f7abb0447fd217b7",
-    "url": "/static/js/main.dea04f5f.chunk.js"
+    "revision": "ac2745197a615c71d91f",
+    "url": "/static/js/main.a47365db.chunk.js"
   },
   {
     "revision": "de72b28ac4cb2a60ad14",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b59868742b23e8bca0cc7939ae4742d0",
     "url": "/static/media/AVR.b5986874.svg"
+  },
+  {
+    "revision": "17c2ef89d34521e849854e608306e9d9",
+    "url": "/static/media/Agile.17c2ef89.png"
   },
   {
     "revision": "c171886490e1f14aee76b84e8246d6d3",
@@ -68,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Linux.f85ee906.webp"
   },
   {
-    "revision": "a717eafa290bf333c4dd1c86076c5b9e",
-    "url": "/static/media/NodeJS.a717eafa.png"
+    "revision": "67899efba7431b683f88a72d9dfe42a3",
+    "url": "/static/media/NodeJS.67899efb.png"
   },
   {
-    "revision": "aaa2df27d3ac128e7c5d5c146573113a",
-    "url": "/static/media/PCB Designing.aaa2df27.png"
+    "revision": "98eb3cc7857226e1befd9da750a94bb1",
+    "url": "/static/media/PCB Designing White.98eb3cc7.png"
   },
   {
     "revision": "3f6a8f25c0e66cf976070e27f7d8704b",
@@ -82,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc3a9937aed253eb046962608e394aef",
     "url": "/static/media/Product Designing.bc3a9937.jpg"
-  },
-  {
-    "revision": "bce39688d9ed1195dc7a63b7e4560873",
-    "url": "/static/media/Project Management.bce39688.png"
   },
   {
     "revision": "7d9fccaffda0db8340fe3e803fee9c83",
@@ -120,10 +120,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/clock.7ea1ea9b.jpg"
   },
   {
-    "revision": "e987c34b611fd12879174718284203df",
-    "url": "/static/media/exp-bg.e987c34b.jpg"
-  },
-  {
     "revision": "ca0a8d228748b1b90bb7a52d5b2a78e4",
     "url": "/static/media/panel.ca0a8d22.jpg"
   },
@@ -146,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "9aec11f1e7dd12fdf789e3c380dd95e3",
+    "url": "/static/media/webb-dark.9aec11f1.png"
   },
   {
     "revision": "afdc407ea197291d9c82141784498064",
